@@ -1,4 +1,4 @@
-![Bombarding](http://cdn.whatismyipaddress.com/images-v4/hacking.png)
+![Bombarding](http://az616578.vo.msecnd.net/files/2016/07/24/6360498178139720611073070814_Rick%20and%20Morty.jpg)
 
 #Hunt The Wumpus
 A python interpretation
